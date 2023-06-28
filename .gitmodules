@@ -1,80 +1,49 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BinNonNor"]
 	path = BinNonNor
 	url = https://github.com/cran/BinNonNor
-	shallow = true
-	registered = true
 [submodule "BinNor"]
 	path = BinNor
 	url = https://github.com/cran/BinNor
-	shallow = true
-	registered = true
 [submodule "BinOrdNonNor"]
 	path = BinOrdNonNor
 	url = https://github.com/cran/BinOrdNonNor
-	shallow = true
-	registered = true
 [submodule "BivUnifBin"]
 	path = BivUnifBin
 	url = https://github.com/cran/BivUnifBin
-	shallow = true
-	registered = true
 [submodule "CorrToolBox"]
 	path = CorrToolBox
 	url = https://github.com/cran/CorrToolBox
-	shallow = true
-	registered = true
 [submodule "MultiOrd"]
 	path = MultiOrd
 	url = https://github.com/cran/MultiOrd
-	shallow = true
-	registered = true
 [submodule "MultiRNG"]
 	path = MultiRNG
 	url = https://github.com/cran/MultiRNG
-	shallow = true
-	registered = true
 [submodule "OrdNor"]
 	path = OrdNor
 	url = https://github.com/cran/OrdNor
-	shallow = true
-	registered = true
 [submodule "PoisBinNonNor"]
 	path = PoisBinNonNor
 	url = https://github.com/cran/PoisBinNonNor
-	shallow = true
-	registered = true
 [submodule "PoisBinOrd"]
 	path = PoisBinOrd
 	url = https://github.com/cran/PoisBinOrd
-	shallow = true
-	registered = true
 [submodule "PoisBinOrdNonNor"]
 	path = PoisBinOrdNonNor
 	url = https://github.com/cran/PoisBinOrdNonNor
-	shallow = true
-	registered = true
 [submodule "PoisBinOrdNor"]
 	path = PoisBinOrdNor
 	url = https://github.com/cran/PoisBinOrdNor
-	shallow = true
-	registered = true
 [submodule "PoisNonNor"]
 	path = PoisNonNor
 	url = https://github.com/cran/PoisNonNor
-	shallow = true
-	registered = true
 [submodule "PoisNor"]
 	path = PoisNor
 	url = https://github.com/cran/PoisNor
-	shallow = true
-	registered = true
 [submodule "UnivRNG"]
 	path = UnivRNG
 	url = https://github.com/cran/UnivRNG
-	shallow = true
-	registered = true
